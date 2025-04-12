@@ -1,0 +1,9 @@
+719511dd09d14ccf1eb3e393b437edc8 *DESCRIPTION
+80bcb523ad1d2592c152c909f2623a3c *NAMESPACE
+a5acfe8f137b249e9dbd1987b81cda30 *R/RcppExports.R
+1bdfe3f33703a3e1391b457b309542ad *man/energy_method.rd
+644cbb188aec74931b00a70a1c0fc15b *man/energy_methodxyz-package.rd
+e62585629948e7dd143efbad43c2a6eb *src/Makevars
+e62585629948e7dd143efbad43c2a6eb *src/Makevars.win
+e635fbafe26dd7e19b32e77c76f01de5 *src/RcppExports.cpp
+5d384f45e727b240d1352ce7b2917205 *src/energy_method_stand_alone_paired_and_independent.cpp
