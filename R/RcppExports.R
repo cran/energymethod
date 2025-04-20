@@ -5,3 +5,7 @@ energy_method <- function(sample_1, sample_2, num_bootstrap_reps, seed, type) {
     .Call(`_energymethod_energy_method`, sample_1, sample_2, num_bootstrap_reps, seed, type)
 }
 
+energy_method_complex <- function(sample_1, sample_2, num_bootstrap_reps, seed, type) {
+    .Call(`_energymethod_energy_method_complex`, sample_1, sample_2, num_bootstrap_reps, seed, type)
+}
+

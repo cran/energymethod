@@ -2,7 +2,7 @@
 \alias{energy_method}
 \title{Implements the two sample paired or independent energy method}
 \description{
-  This functions takes two samples of high-dimensional functional data, implements the energy
+  This function takes two samples of high-dimensional functional data, implements the energy
   method, and returns a p-value for the global test of equality of mean and a channel-wise p-value
   for each functional coordinate. 
 }
